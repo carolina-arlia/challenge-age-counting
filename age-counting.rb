@@ -14,5 +14,4 @@ array_data.each_with_index do |element, index|
   end
 end
 
-
 puts counter
